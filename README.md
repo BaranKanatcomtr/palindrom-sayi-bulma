@@ -7,9 +7,11 @@ Palindromik sayı, iki taraftan okunduğu zaman okunuş yönüyle aynı olan say
 # Kullanım
 Algoritmanın çalışabilmesi için C programlama dilinin çalışabileceği program(ların) yüklü olması gereklidir.
 
+# Varyasyon
+Aynı algoritmayı Python dili ile kodladım. İncelemek isterseniz: https://github.com/BaranKanatcomtr/palindrom-sayi-bulma-python
+
 # İletişim
 Benimle iletişme geçmek isterseniz www.barankanat.com.tr adresini ziyaret edebilirsiniz.                          
 Twitter: https://twitter.com/Baran_Knt                          
 Linkedin: https://www.linkedin.com/in/baran-kanat-21b77318a/                          
 Hızlı İletişim (Telegram): https://t.me/barankanat                          
-E-posta Adresim: contact@barankanat.com.tr
